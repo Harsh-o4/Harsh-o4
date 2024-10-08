@@ -12,7 +12,7 @@
 </p>
 
 -----------------------------------------------------------
-<ul><h3>**About Me**</h3><img src="https://github.com/Harsh-o4/Harsh-o4/blob/main/readme_icon.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<ul><h3>**About Me**</h3><img src="https://github.com/Harsh-o4/Harsh-o4/blob/main/readme_icon.png" min-width="500px" max-width="500px" width="500px" align="right"> 
 <li>✨Contibutor at GSSoC'24 extd.</li> 
 <li>👨🏻‍💻Sophomore Engineering Student</li>
 <li>🫡Avid Learner</li>
