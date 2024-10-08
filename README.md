@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/harsh-o4/">Harsh</a> </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">Hi there, I'm <a href="https://www.linkedin.com/in/harsh-o4/">Harsh</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
@@ -6,6 +6,7 @@
 <!--   <a href="https://x.com/sanjay_kv_">Twitter</a> - -->
 <!--   <a href="https://recodehive.com/">Website</a> - -->
   <a href="https://www.linkedin.com/in/harsh-o4/">LinkedIn</a> - 
+<!--   <a href="https://www.linkedin.com/in/harsh-o4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
   <a href="https://leetcode.com/u/harsh_o4/">LeetCode</a> -
   <a href="https://www.hackerrank.com/profile/harshsingh3776">HackerRank</a> 
 </p>
@@ -27,7 +28,7 @@ Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&log
 <!-- <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp;  -->
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp; 
-<!-- <img src="https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat"> &nbsp; -->
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"> &nbsp;
   <br>
 Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
@@ -46,3 +47,17 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <!-- <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp; -->
   <br>
+  </details>
+
+
+<!--- 3rd Section on Recent Projects -->
+
+  <details>	
+    <summary><h3>📚 Recent Projects/ Activity</h3></summary><br>
+
+  
+  <!--END_SECTION:activity-->
+  </details> 
+<br><br>
+  <p align="center">
+<b> Show some ❤️ by starring some of the repositories!.</p>
