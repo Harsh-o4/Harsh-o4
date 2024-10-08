@@ -50,14 +50,22 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
   </details>
 
 
-<!--- 3rd Section on Recent Projects -->
+<!--- Recent Projects -->
 
   <details>	
     <summary><h3>📚 Recent Projects/ Activity</h3></summary><br>
 
   
-  <!--END_SECTION:activity-->
   </details> 
+
+<!--- experience and achievements -->
+<ul><h3>**Experiences**</h3> 
+<li>✨Contibutor at <b>GSSoC'24 extd.</b>  &nbsp;  &nbsp; &nbsp;   (Oct 2024)</li> 
+<li>🙋Participant at <b>HackIndia 2024</b>  &nbsp; &nbsp; &nbsp;  (Sep 2024)</li>
+<li>🥈Runner-up at <b>Code-o-Fiesta 2.0</b>  &nbsp;  (April 2024)</li>
+</ul>
+  
 <br><br>
+<!--- Footer -->
   <p align="center">
 <b> Show some ❤️ by starring some of the repositories!.</p>
