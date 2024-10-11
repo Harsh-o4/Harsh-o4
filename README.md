@@ -1,15 +1,14 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">Hi there, I'm <a href="https://www.linkedin.com/in/harsh-o4/">Harsh</a> </h1>
 
 <!--- Adding Header Elements -->
-<p align="center">
-<!--   <a href="http://sanjaykv.com/">Portfolio</a> - -->
-<!--   <a href="https://x.com/sanjay_kv_">Twitter</a> - -->
-<!--   <a href="https://recodehive.com/">Website</a> - -->
-  <a href="https://www.linkedin.com/in/harsh-o4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> - 
-<!--   <a href="https://www.linkedin.com/in/harsh-o4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <a href="https://leetcode.com/u/harsh_o4/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a> -
-  <a href="https://www.hackerrank.com/profile/harshsingh3776"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> 
-</p>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/harsh-o4/" title="LinkedIn Profile"><img width="28" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/u/harsh_o4/" title="Leetcode Profile"><img width="30" src="images/leetcode.png"> Leetcode</a></code>
+  <code><a href="https://www.hackerrank.com/profile/harshsingh3776" title="HackerRank Profile"><img width="30" src="images/hackerrank.png"> HackerRank</a></code>
+<!--   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
+</h5>
+
 
 -----------------------------------------------------------
 <ul><h3>**About Me**</h3><img src="https://github.com/Harsh-o4/Harsh-o4/blob/main/readme_icon.png" min-width="500px" max-width="500px" width="450px" align="right"> 
