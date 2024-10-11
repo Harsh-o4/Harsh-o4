@@ -5,10 +5,10 @@
 <!--   <a href="http://sanjaykv.com/">Portfolio</a> - -->
 <!--   <a href="https://x.com/sanjay_kv_">Twitter</a> - -->
 <!--   <a href="https://recodehive.com/">Website</a> - -->
-  <a href="https://www.linkedin.com/in/harsh-o4/">LinkedIn</a> - 
+  <a href="https://www.linkedin.com/in/harsh-o4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> - 
 <!--   <a href="https://www.linkedin.com/in/harsh-o4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <a href="https://leetcode.com/u/harsh_o4/">LeetCode</a> -
-  <a href="https://www.hackerrank.com/profile/harshsingh3776">HackerRank</a> 
+  <a href="https://leetcode.com/u/harsh_o4/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a> -
+  <a href="https://www.hackerrank.com/profile/harshsingh3776"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> 
 </p>
 
 -----------------------------------------------------------
@@ -41,7 +41,7 @@
 
 <br><br><br>
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></code>
