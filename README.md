@@ -22,7 +22,7 @@
 <!-- <li>✨Contibutor at <b>GSSoC'24 extd.</b>  &nbsp;  &nbsp; &nbsp;   (Oct 2024)</li>  -->
 <li>🙋Participant at <b>HackIndia 2024</b>  &nbsp; &nbsp; &nbsp;  (Sep 2024)</li>
 <li>🥈Runner-up at <b>Code-o-Fiesta 2.0</b>  &nbsp;  (April 2024)</li>
-</ul>
+</ul> <br>
 <!--- Adding Tech Stack open Section -->
 
 
@@ -31,16 +31,20 @@
 
 <!--- Recent Projects -->
 
-  <details>	
-    <summary><h3>📚 Recent Projects/ Activity</h3></summary><br>
+  <h3>📚 Recent Projects/ Activity</h3>
+  ✨ <a href="https://github.com/Harsh-o4/spotify-homepage-clone">Spotify Homepage Clone</a>&nbsp; 
+  ✨ <a href="https://github.com/Harsh-o4/netflix-homepage-clone">Netflix Homepage Clone</a><br>
+  ✨ <a href="https://github.com/Harsh-o4/2D-array-mini-project">2D array (mini project)</a>&nbsp; &nbsp; &nbsp; 
+  ✨ <a href="https://github.com/Harsh-o4/leetcode-solutions">LeetCode Solutions</a><br>
+
 
   
-  </details> 
+  
 
 
 <br><br><br>
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+<h2 align="center">🛠️ Languages & Frameworks & Tools </h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></code>
