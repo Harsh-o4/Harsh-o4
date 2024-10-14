@@ -38,7 +38,7 @@
   ✨ <a href="https://github.com/Harsh-o4/flipkart-homepage-clone">Flipkart Homepage Clone</a><br>
   ✨ <a href="https://github.com/Harsh-o4/2D-array-mini-project">2D array (mini project)</a>&nbsp; &nbsp; &nbsp; 
   ✨ <a href="https://github.com/Harsh-o4/leetcode-solutions">LeetCode Solutions</a><br>
-  
+  ✨ <a href="https://github.com/Harsh-o4/number-guessing-game">Number Guessing game</a>&nbsp; &nbsp; &nbsp; 
 
 
   
