@@ -55,13 +55,13 @@
 <!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
   <code><img title="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
   <code><img title="Jupyter Notebook" height="25" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></code>
-  <code><img title="Javascript" height="25" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
 <!--   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code> -->
   <code><img title="HTML5" height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></code>
   <code><img title="CSS" height="25" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></code>
+  <code><img title="Javascript" height="25" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
 <!--   <code><img title="SASS" height="25" src="images/sass.svg"></code> -->
 <!--   <code><img title="Gulp" height="25" src="images/gulp.svg"></code> -->
-  <code><img title="React" height="25" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>
+<!--   <code><img title="React" height="25" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code> -->
 <!--   <code><img title="Redux" height="25" src="images/redux.svg"></code> -->
 <!--   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code> -->
   <code><img title="Git" height="25" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></code>
