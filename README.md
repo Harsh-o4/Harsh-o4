@@ -21,6 +21,7 @@
 <ul><h3>**Experiences**</h3> 
 <!-- <li>✨Contibutor at <b>GSSoC'24 extd.</b>  &nbsp;  &nbsp; &nbsp;   (Oct 2024)</li>  -->
 <li>🙋Participant at <b>HackIndia 2024</b>  &nbsp; &nbsp; &nbsp;  (Sep 2024)</li>
+<li>🏢Intern at <b>Krutanic Solutions</b>  &nbsp; &nbsp; &nbsp; &nbsp;  (June 2024)</li>
 <li>🥈Runner-up at <b>Code-o-Fiesta 2.0</b>  &nbsp;  (April 2024)</li>
 </ul> <br>
 <!--- Adding Tech Stack open Section -->
