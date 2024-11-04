@@ -12,15 +12,13 @@
 
 -----------------------------------------------------------
 <ul><h3>**About Me**</h3><img src="https://github.com/Harsh-o4/Harsh-o4/blob/main/readme_icon.png" min-width="500px" max-width="500px" width="450px" align="right"> 
-<li>✨Contibutor at GSSoC'24 extd.</li> 
 <li>👨🏻‍💻Sophomore Engineering Student</li>
 <li>🫡Avid Learner</li>
 </ul>
 
 <!--- experience and achievements -->
 <ul><h3>**Experiences**</h3> 
-<!-- <li>✨Contibutor at <b>GSSoC'24 extd.</b>  &nbsp;  &nbsp; &nbsp;   (Oct 2024)</li>  -->
-<li>🙋Participant at <b>HackIndia 2024</b>  &nbsp; &nbsp; &nbsp;  (Sep 2024)</li>
+<li>✨Contibutor at <b>GSSoC'24 extd.</b>  &nbsp;  &nbsp; &nbsp;   (Oct 2024)</li> 
 <li>🏢Intern at <b>Krutanic Solutions</b>  &nbsp; &nbsp; &nbsp; &nbsp;  (June 2024)</li>
 <li>🥈Runner-up at <b>Code-o-Fiesta 2.0</b>  &nbsp;  (April 2024)</li>
 </ul> <br>
