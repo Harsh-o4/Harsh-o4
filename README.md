@@ -11,7 +11,7 @@
 
 
 -----------------------------------------------------------
-<ul><h3>**About Me**</h3><img src="https://github.com/Harsh-o4/Harsh-o4/blob/main/icon.png" min-width="500px" max-width="500px" width="450px" align="right"> 
+<ul><h3>**About Me**</h3><img src="https://github.com/Harsh-o4/Harsh-o4/blob/main/icon.png" min-width="400px" max-width="400px" width="400px" align="right"> 
 <li>👨🏻‍💻Sophomore Engineering Student</li>
 <li>🫡Avid Learner</li>
 </ul>
