@@ -2,15 +2,15 @@
 
 <!--- Adding Header Elements -->
 
-<h5 align="center">
+<!--<h5 align="center">
   <code><a href="https://www.linkedin.com/in/harsh-o4/" title="LinkedIn Profile"><img width="28" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/u/harsh_o4/" title="Leetcode Profile"><img width="30" src="images/leetcode.png"> Leetcode</a></code>
   <code><a href="https://www.hackerrank.com/profile/harshsingh3776" title="HackerRank Profile"><img width="30" src="images/hackerrank.png"> HackerRank</a></code>
-<!--   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
-</h5>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5> -->
 
 
------------------------------------------------------------
+
 <ul><h3>**About Me**</h3><img src="https://github.com/Harsh-o4/Harsh-o4/blob/main/icon.png" min-width="400px" max-width="400px" width="400px" align="right"> 
 <li>👨🏻‍💻Sophomore Engineering Student</li>
 <li>🫡Avid Learner</li>
