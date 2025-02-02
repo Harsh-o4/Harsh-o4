@@ -11,17 +11,17 @@
 
 
 
-<ul><h3>**About Me**</h3><img src="https://github.com/Harsh-o4/Harsh-o4/blob/main/icon.png" min-width="400px" max-width="400px" width="400px" align="right"> 
+<ul><h3>**About Me**</h3><img src="https://github.com/Harsh-o4/Harsh-o4/blob/main/icon.png" min-width="350px" max-width="250px" width="250px" align="right"> 
 <li>👨🏻‍💻Sophomore Engineering Student</li>
 <li>🫡Avid Learner</li>
 </ul>
 
 <!--- experience and achievements -->
-<ul><h3>**Experiences**</h3> 
+<!-- <ul><h3>**Experiences**</h3> 
 <li>✨Contibutor at <b>GSSoC'24 extd.</b>  &nbsp;  &nbsp; &nbsp;   (Oct 2024)</li> 
 <li>🏢Intern at <b>Krutanic Solutions</b>  &nbsp; &nbsp; &nbsp; &nbsp;  (June 2024)</li>
 <li>🥈Runner-up at <b>Code-o-Fiesta 2.0</b>  &nbsp;  (April 2024)</li>
-</ul> <br>
+</ul> <br> -->
 <!--- Adding Tech Stack open Section -->
 
 
