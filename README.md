@@ -16,28 +16,17 @@
 <li>🫡Avid Learner</li>
 </ul>
 
-<!--- experience and achievements -->
-<ul><h3>**Experiences**</h3> 
-<li>✨Contibutor at <b>GSSoC'24 extd.</b>  &nbsp;  &nbsp; &nbsp;   (Oct 2024)</li> 
-<li>🏢Intern at <b>Krutanic Solutions</b>  &nbsp; &nbsp; &nbsp; &nbsp;  (June 2024)</li>
-<li>🥈Runner-up at <b>Code-o-Fiesta 2.0</b>  &nbsp;  (April 2024)</li>
-</ul> <br> 
-<!--- Adding Tech Stack open Section -->
-
-
-
-
 
 <!--- Recent Projects -->
 
   <h3>📚 Recent Projects/ Activity</h3>
-  ✨ <a href="https://github.com/Harsh-o4/spotify-homepage-clone">Spotify Homepage Clone</a>&nbsp; 
-  ✨ <a href="https://github.com/Harsh-o4/netflix-homepage-clone">Netflix Homepage Clone</a><br>
-  ✨ <a href="https://github.com/Harsh-o4/myntra-homepage-clone">Myntra Homepage Clone</a>&nbsp; 
-  ✨ <a href="https://github.com/Harsh-o4/flipkart-homepage-clone">Flipkart Homepage Clone</a><br>
-  ✨ <a href="https://github.com/Harsh-o4/2D-array-mini-project">2D array (mini project)</a>&nbsp; &nbsp; &nbsp; 
   ✨ <a href="https://github.com/Harsh-o4/leetcode-solutions">LeetCode Solutions</a><br>
-  ✨ <a href="https://github.com/Harsh-o4/number-guessing-game">Number Guessing game</a>&nbsp;&nbsp; 
+  ✨ <a href="https://github.com/Harsh-o4/spotify-homepage-clone">Spotify Homepage Clone</a><br>
+  ✨ <a href="https://github.com/Harsh-o4/netflix-homepage-clone">Netflix Homepage Clone</a><br>
+  ✨ <a href="https://github.com/Harsh-o4/myntra-homepage-clone">Myntra Homepage Clone</a><br> 
+  ✨ <a href="https://github.com/Harsh-o4/flipkart-homepage-clone">Flipkart Homepage Clone</a><br>
+  ✨ <a href="https://github.com/Harsh-o4/2D-array-mini-project">2D array (mini project)</a><br> 
+  ✨ <a href="https://github.com/Harsh-o4/number-guessing-game">Number Guessing game</a><br> 
   ✨ <a href="https://github.com/Harsh-o4/singly-linked-list-mini-project">Singly linked list (mini project)</a><br>
 
 
