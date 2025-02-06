@@ -16,7 +16,7 @@
 <li>🫡Avid Learner</li>
 </ul>
 
-
+<br>
 <!--- Recent Projects -->
 
   <h3>📚 Recent Projects/ Activity</h3>
@@ -30,11 +30,7 @@
   ✨ <a href="https://github.com/Harsh-o4/singly-linked-list-mini-project">Singly linked list (mini project)</a><br>
 
 
-  
-  
-
-
-<br><br><br>
+<br><br>
 
 <h2 align="center">🛠️ Languages & Frameworks & Tools </h2>
 <br>
