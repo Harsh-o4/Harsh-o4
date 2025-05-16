@@ -69,6 +69,6 @@
 
   
 <br><br>
-<!--- Footer -->
+<!--- Footer 
   <p align="center">
-<b> Show some ❤️ by starring some of the repositories!.</p>
+<b> Show some ❤️ by starring some of the repositories!.</p>-->
