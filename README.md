@@ -21,8 +21,8 @@
 
   <h3>📚 Recent Projects/ Activity</h3>
   ✨ <a href="https://github.com/Harsh-o4/leetcode-solutions">LeetCode Solutions</a><br>
-  ✨ <a href="https://https://github.com/Harsh-o4/codeforces">Codeforces Solutions</a><br>
-  ✨ <a href="https://github.com/Harsh-o4/spotify-homepage-clone">Spotify Homepage Clone</a><br>
+  ✨ <a href="https://github.com/Harsh-o4/codeforces-solutions">Codeforces Solutions</a><br>
+  <!-- ✨ <a href="https://github.com/Harsh-o4/spotify-homepage-clone">Spotify Homepage Clone</a><br> -->
 <!--   ✨ <a href="https://github.com/Harsh-o4/netflix-homepage-clone">Netflix Homepage Clone</a><br> -->
 <!--   ✨ <a href="https://github.com/Harsh-o4/myntra-homepage-clone">Myntra Homepage Clone</a><br>  -->
 <!--   ✨ <a href="https://github.com/Harsh-o4/flipkart-homepage-clone">Flipkart Homepage Clone</a><br> -->
