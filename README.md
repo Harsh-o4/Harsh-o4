@@ -11,27 +11,27 @@
 
 
 
-<ul><h3>**About Me**</h3><img src="https://github.com/Harsh-o4/Harsh-o4/blob/main/icon.png" min-width="400px" max-width="400px" width="400px" align="right"> 
-<li>👨🏻‍💻 Engineering Student</li>
-<li>🫡Avid Learner</li>
-</ul>
+<!-- <ul><h3>**About Me**</h3><img src="https://github.com/Harsh-o4/Harsh-o4/blob/main/icon.png" min-width="400px" max-width="400px" width="400px" align="right">  -->
+<!-- <li>👨🏻‍💻 Engineering Student</li> -->
+<!-- <li>🫡Avid Learner</li> -->
+<!-- </ul> -->
 
-<br>
+<!-- <br> -->
 <!--- Recent Projects -->
 
-  <h3>📚 Recent Projects/ Activity</h3>
-  ✨ <a href="https://github.com/Harsh-o4/leetcode-solutions">LeetCode Solutions</a><br>
-  ✨ <a href="https://github.com/Harsh-o4/codeforces-solutions">Codeforces Solutions</a><br>
+  <!---<h3>📚 Recent Projects/ Activity</h3> -->
+  <!-- ✨ <a href="https://github.com/Harsh-o4/leetcode-solutions">LeetCode Solutions</a><br> -->
+  <!-- ✨ <a href="https://github.com/Harsh-o4/codeforces-solutions">Codeforces Solutions</a><br> -->
   <!-- ✨ <a href="https://github.com/Harsh-o4/spotify-homepage-clone">Spotify Homepage Clone</a><br> -->
 <!--   ✨ <a href="https://github.com/Harsh-o4/netflix-homepage-clone">Netflix Homepage Clone</a><br> -->
 <!--   ✨ <a href="https://github.com/Harsh-o4/myntra-homepage-clone">Myntra Homepage Clone</a><br>  -->
 <!--   ✨ <a href="https://github.com/Harsh-o4/flipkart-homepage-clone">Flipkart Homepage Clone</a><br> -->
-  ✨ <a href="https://github.com/Harsh-o4/2D-array-mini-project">2D array (mini project)</a><br> 
-  ✨ <a href="https://github.com/Harsh-o4/number-guessing-game">Number Guessing game</a><br> 
-  ✨ <a href="https://github.com/Harsh-o4/singly-linked-list-mini-project">Singly linked list (mini project)</a><br>
+  <!-- ✨ <a href="https://github.com/Harsh-o4/2D-array-mini-project">2D array (mini project)</a><br>  -->
+  <!-- ✨ <a href="https://github.com/Harsh-o4/number-guessing-game">Number Guessing game</a><br>  -->
+  <!-- ✨ <a href="https://github.com/Harsh-o4/singly-linked-list-mini-project">Singly linked list (mini project)</a><br> -->
 
 
-<br><br>
+<!-- <br><br> -->
 
 <!--- <h2 align="center">🛠️ Languages & Frameworks & Tools </h2>
 <br>
